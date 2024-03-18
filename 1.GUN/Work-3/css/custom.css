@@ -1,0 +1,58 @@
+body{
+    background-color: #efefef;
+}
+.bg-icon{
+    width: 40px!important;
+    height: 40px!important;
+    line-height: 2.2;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    border-radius: 50%;
+}
+
+h1{
+    font-size: 24px;
+}
+
+.bg-icon{
+    color: #6c757d;
+}
+
+.bg-icon:hover{
+    background-color: #e3b04b;
+    color: white!important;
+}
+
+.input-random{
+    padding: 14px 12px;
+}
+
+label{
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.btn-custom{
+    background-color: #e3b04b;
+    color: white!important;
+    padding: 12px;
+}
+
+.label-custom{
+    font-size: 16px;
+    font-weight: normal!important;
+    color: #e3b04b;
+}
+
+input[type="checkbox"]{
+    font-size: 18px;
+    color: #e3b04b!important;
+}
+
+.custom_color{
+    color: #e3b04b!important;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
