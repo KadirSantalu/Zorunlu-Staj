@@ -1,0 +1,40 @@
+body{
+    background-color: #dce3f0;
+}
+
+
+.color-circle span{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.card-title h1{
+    font-size: 22px;
+}
+
+.card-title-content h3{
+    font-size: 20px;
+}
+
+.card-title-content h3 span{
+    color: red;
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.bg-blue{
+    background-color: blue;
+}
+
+.bg-yellow{
+    background-color: yellow;
+}
+
+.bg-purple{
+    background-color: purple;
+}
